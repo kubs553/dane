@@ -1,0 +1,14 @@
+ { 
+   "numer":"1"
+   "imie":"Kacper"
+   "nazwisko":"Niski"
+   "pesel":"14475264261"
+   "imie":"Lesna"
+},
+ { 
+   "numer":"2"
+   "imie":"Adam"
+   "nazwisko":"Kowalski"
+   "pesel":"98765412312"
+   "imie":"Krakowska"
+},
